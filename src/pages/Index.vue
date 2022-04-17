@@ -2,7 +2,7 @@
   <q-page class="q-pa-xl">
     <div class="row">
 
-      <div class="col-8">
+      <div class="col-9 absolute-center">
         <div class="text-center">
           <img src="https://user-images.githubusercontent.com/18400142/132318330-b8536515-d0d3-44ba-817e-ee2d269722f6.png"
                alt=""
